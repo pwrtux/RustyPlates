@@ -1,0 +1,11 @@
+/target
+.vscode
+.idea
+Cargo.lock
+
+# The
+**/*.rs.bk
+
+# MSV
+*.pdb
+gymlog.txt
